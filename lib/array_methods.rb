@@ -1,5 +1,7 @@
 def using_include(array, element)
   cities = ["Copenhagen", "Berlin", "Venice", "Zurich"]
+  city1 = "Berlin"
+  city2 = "london"
   cities.include?("Berlin")
   cities.include?("london")
 end
