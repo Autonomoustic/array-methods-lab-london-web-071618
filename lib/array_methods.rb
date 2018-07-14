@@ -3,7 +3,6 @@ def using_include(array, element)
   cities.include?("Berlin")
   cities.include?("london")
 end
-end
 
 def using_sort(array)
 
