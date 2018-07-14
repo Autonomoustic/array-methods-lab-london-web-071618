@@ -1,9 +1,9 @@
 def using_include(array, element)
-  cities = ["Copenhagen", "Berlin", "Venice", "Zurich"]
-  city1 = "Berlin"
-  city2 = "london"
-  cities.include?("Berlin")
-  cities.include?("london")
+  array = ["Copenhagen", "Berlin", "Venice", "Zurich"]
+  element1 = "Berlin"
+  element2 = "london"
+  array.include?("Berlin")
+  array.include?("london")
 end
 
 def using_sort(array)
