@@ -1,7 +1,7 @@
 def using_include(array, element)
   cities = ["Copenhagen", "Berlin", "Venice", "Zurich"]
   cities.include?("Berlin")
-  citess.include?("london")
+  cities.include?("london")
 end
 
 def using_sort(array)
